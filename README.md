@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Rakesh-Nagaraju/Twitter-Ios-App/blob/master/c8e226f4d8cd5d6e18a20fddb9adee6d9e3c52ac.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
